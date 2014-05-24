@@ -1,0 +1,11 @@
+# Site settings
+title: Mirko Kiefer - My Point of View.
+email: email@mirkokiefer.com
+description: "I write about all things web and mobile."
+baseurl: ""
+url: "http://mirkokiefer.com"
+username: "mirkokiefer"
+
+# Build settings
+markdown: redcarpet
+permalink: /blog/:year/:month/:title

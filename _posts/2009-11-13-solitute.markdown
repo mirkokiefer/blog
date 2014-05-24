@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Solitute"
+date: 2009-11-13 21:28
+comments: true
+categories: 
+---
+> “Others inspire us, information feeds us, practive improves our performance, but we need quiet time to figure things out, to emerge with new discoveries, to unearth original answers”
+
+Ester Buchholz
