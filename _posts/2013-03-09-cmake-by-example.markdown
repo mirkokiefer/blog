@@ -11,7 +11,7 @@ There are some useful tutorials linked on the [CMake Wiki](http://www.cmake.org/
 So I wrote this short CMake introduction as a distilled version of what I found out after working through the docs and following [stackoverflow questions](http://stackoverflow.com/questions/tagged/cmake?sort=votes&pagesize=50).
 
 Its a work in progress and I will try to continuously improve it.
-<!-- more -->
+
 
 CMake is a meta build tool that allows you to generate native build scripts for a range of platforms:
 

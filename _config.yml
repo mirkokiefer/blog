@@ -1,5 +1,6 @@
 # Site settings
 title: Mirko Kiefer - My Point of View.
+name: Mirko Kiefer
 email: email@mirkokiefer.com
 description: "I write about all things web and mobile."
 baseurl: ""

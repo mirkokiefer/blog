@@ -7,7 +7,7 @@ categories:
 ---
 LivelyCouch is all about making life as a CouchDB developer easier. It is designed to fill the gap between a CouchApp and a full fledged web application.
 Being all written in Node.js it allows you to stick to Javascript throughout your code. We are currently working on getting the source ready to release.
-<!-- more -->
+
 
 LivelyCouch consists out of two major parts – LivelyHandler and the Lively Event System. They both run as Node scripts behind CouchDB using the new externals and http proxy modules which is available in CouchDB trunk by now.
 In this part I will focus on how handlers work – part 2 will explain the event system a bit more.

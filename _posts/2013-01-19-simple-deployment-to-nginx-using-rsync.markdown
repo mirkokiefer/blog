@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "simple deployment to nginx using rsync"
+title: "Simple deployment to nginx using rsync"
 date: 2013-01-19 21:33
 comments: true
 categories: 
@@ -11,7 +11,7 @@ I'm hosting my websites on a small virtual server from Hetzner.
 The setup with nginx was surprisingly simple after I found the right guides :)
 
 I like to have all configs and data contained in one directory so that I can edit everything offline and just rsync it with the server.
-<!-- more -->
+
 ##Local machine setup
 Create a folder structure like this:
 ```

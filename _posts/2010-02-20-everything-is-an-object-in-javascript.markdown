@@ -6,7 +6,7 @@ comments: true
 categories: 
 ---
 Most developers have heard about “object orientation” and many believe it has something to do with what are called “classes”, “instances” and “class/instance methods” in Java or C++. In fact true object orientation has very little to do with these features – at least not in the sense the original “inventors” have seen this concept.
-<!-- more -->
+
 But more on this in a later post.
 
 For now I just want to share what I have learned about Javascript’s approach to OOP today. In Javascript essentially everything is an Object.

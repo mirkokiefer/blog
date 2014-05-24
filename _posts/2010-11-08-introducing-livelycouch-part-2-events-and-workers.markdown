@@ -6,7 +6,7 @@ comments: true
 categories: 
 ---
 The LivelyCouch Event System can be used in your apps whenever you want to trigger some code that should run in the background. This could for example be:
-<!-- more -->
+
 - sending out e-mails
 - resizing images
 - watching a database for changes

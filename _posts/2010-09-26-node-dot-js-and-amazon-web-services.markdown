@@ -6,7 +6,7 @@ comments: true
 categories: 
 ---
 I got pretty excited about Node.js during the last day, especially after discovering that there are already a whole bunch of modules available for it:
-<!-- more -->
+
 [http://github.com/ry/node/wiki/modules](http://github.com/ry/node/wiki/modules)
 
 I needed clients for both Amazon EC2 and the Product Advertising API so I had a closer look at Blake Mizerany’s swirl-node.

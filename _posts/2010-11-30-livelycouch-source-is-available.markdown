@@ -8,7 +8,7 @@ categories:
 Johannes Auer and I made great progress on the LivelyCouch framework I’ve written about before.
 
 LivelyCouch now allows you to:
-<!-- more -->
+
 store your entire Node.js web application in CouchDB, being able to replicate it
 changes on your source files are automatically written to CouchDB using a filesystem watcher
 use “Handlers” to write your own views in Node.js

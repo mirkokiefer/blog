@@ -6,7 +6,7 @@ comments: true
 categories: 
 ---
 Ever been annoyed by having to use C for-loops to do something simple like filtering or collecting objects from NSArray? Blocks finally allow you to get rid of them entirely!
-<!-- more -->
+
 As a Smalltalk lover I really had to write this simple library:
 
 ``` objective-c
