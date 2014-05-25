@@ -6,7 +6,7 @@ comments: true
 categories: 
 ---
 
-When trying to learn CMake I could not find any good introduction. The [CMake documentation](http://www.cmake.org/cmake/help/v2.8.10/cmake.html) is quite good but not suitable for a beginner.  
+When trying to learn CMake I could not find any good introduction. The [CMake documentation](http://www.cmake.org/cmake/help/v2.8.10/cmake.html) is quite comprehensive but not suitable for a beginner.  
 There are some useful tutorials linked on the [CMake Wiki](http://www.cmake.org/Wiki/CMake#Basic_Introductions) but most of them only cover very specific problems or are too basic.  
 So I wrote this short CMake introduction as a distilled version of what I found out after working through the docs and following [stackoverflow questions](http://stackoverflow.com/questions/tagged/cmake?sort=votes&pagesize=50).
 

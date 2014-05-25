@@ -4,6 +4,7 @@ title: "Switching from WordPress to Octopress"
 date: 2013-01-19 20:40
 comments: true
 categories: 
+published: false
 ---
 I didn't update my blog for more than a year now!
 Its not that there wasn't anything to write about - a lot has happened in the meantime.
