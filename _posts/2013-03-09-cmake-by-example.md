@@ -21,6 +21,7 @@ CMake is a meta build tool that allows you to generate native build scripts for 
 - CodeBlocks
 - Eclipse
 - and more...
+{more}
 
 See the [full list of CMake generators](http://www.cmake.org/cmake/help/v2.8.10/cmake.html###gen:BorlandMakefiles).
 

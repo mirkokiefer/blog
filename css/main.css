@@ -144,24 +144,17 @@ a:visited { color: #205caa; }
 /* Home styles */
 /* ----------------------------------------------------------*/
 
-.home h1 { margin-bottom: 25px; }
-
-.posts { list-style-type: none; }
-
-.posts li { margin-bottom: 30px; }
-
-.posts .post-link {
-  font-size: 24px;
-  letter-spacing: -1px;
-  line-height: 1;
+.home article {
+  padding-bottom: 50px;
+  margin-bottom: 50px;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-bottom-color: rgb(238, 238, 238);
 }
 
-.posts .post-date {
-  display: block;
-  font-size: 15px;
-  color: #818181;
+.continue-article {
+  margin-top: 20px;
 }
-
 
 /* Post styles */
 /* ----------------------------------------------------------*/

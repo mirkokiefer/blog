@@ -10,3 +10,5 @@ username: "mirkokiefer"
 # Build settings
 markdown: redcarpet
 permalink: /blog/:year/:month/:title
+excerpt_separator: "{more}"
+paginate: 5
